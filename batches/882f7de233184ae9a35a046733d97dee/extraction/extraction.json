@@ -1,0 +1,18 @@
+{
+  "files": [
+    {
+      "source_file": "000_00d8987a.png",
+      "status": "REVIEW_REQUIRED",
+      "pages": 1,
+      "rows": 0,
+      "error": "No lead rows could be read. Review the extracted page text or import a CSV with visible_name, role and company columns."
+    },
+    {
+      "source_file": "001_2821de77.png",
+      "status": "OK",
+      "pages": 1,
+      "rows": 7
+    }
+  ],
+  "elapsed_seconds": 6.052060000001802
+}

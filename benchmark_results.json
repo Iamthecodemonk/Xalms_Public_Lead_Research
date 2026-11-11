@@ -1,0 +1,13 @@
+{
+  "exact_name_company_matches": 50,
+  "files": 60,
+  "pdf_files": 30,
+  "image_files": 30,
+  "unique_leads": 60,
+  "failed_files": 0,
+  "elapsed_seconds": 67.947,
+  "peak_process_and_children_rss_mib": 78.99,
+  "input_mib": 0.336,
+  "output_mib": 0.028,
+  "notes": "60 unique synthetic single-page files; half selectable-text PDFs, half clean table images. Offline extraction only, no search/network. Does not predict performance of scanned multipage PDFs or arbitrary layouts."
+}

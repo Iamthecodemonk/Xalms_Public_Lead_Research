@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "source_file": "000_c2090da8.png",
+      "status": "ERROR",
+      "pages": 0,
+      "rows": 0,
+      "error": "Install Tesseract OCR and add it to PATH to read images/scanned PDFs."
+    },
+    {
+      "source_file": "001_370cec9b.png",
+      "status": "ERROR",
+      "pages": 0,
+      "rows": 0,
+      "error": "Install Tesseract OCR and add it to PATH to read images/scanned PDFs."
+    }
+  ],
+  "elapsed_seconds": 0.1564550000039162
+}

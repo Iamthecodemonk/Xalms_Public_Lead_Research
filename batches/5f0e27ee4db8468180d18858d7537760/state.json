@@ -1,0 +1,87 @@
+{
+  "id": "5f0e27ee4db8468180d18858d7537760",
+  "state": "review",
+  "files": [
+    {
+      "name": "Screenshot 2026-11-11 114912.png",
+      "stored": "000_72efe131.png",
+      "size": 264519
+    },
+    {
+      "name": "Screenshot 2026-11-11 134240.png",
+      "stored": "001_0e8259ec.png",
+      "size": 293956
+    }
+  ],
+  "progress": 100,
+  "message": "Extracted 7 leads from 2 files. 1 files need attention: No lead rows could be read. Review the extracted page text or import a CSV with visible_name, role and company columns.",
+  "leads": [
+    {
+      "visible_name": "Blak",
+      "role": "CEO & Founder",
+      "company": "Mokano Coffee",
+      "extraction_status": "REVIEW_OCR",
+      "source_file": "Screenshot 2026-11-11 134240.png:page 1",
+      "page": 1
+    },
+    {
+      "visible_name": "Kenneth Ritter",
+      "role": "Cfo/coo",
+      "company": "Savor Street Foods, Inc.",
+      "extraction_status": "REVIEW_OCR",
+      "source_file": "Screenshot 2026-11-11 134240.png:page 1",
+      "page": 1
+    },
+    {
+      "visible_name": "Bill T",
+      "role": "Chief Financial Officer & Chief Oper...",
+      "company": "fe Farmers' Rice Cooperati\\",
+      "extraction_status": "REVIEW_OCR",
+      "source_file": "Screenshot 2026-11-11 134240.png:page 1",
+      "page": 1
+    },
+    {
+      "visible_name": "Dan M",
+      "role": "CEO | Founder",
+      "company": "S Critical Mass Group",
+      "extraction_status": "REVIEW_OCR",
+      "source_file": "Screenshot 2026-11-11 134240.png:page 1",
+      "page": 1
+    },
+    {
+      "visible_name": "Paul G sseeo",
+      "role": "Chief Financial Officer, Chief Operat...",
+      "company": "Piastikon industries inc",
+      "extraction_status": "REVIEW_OCR",
+      "source_file": "Screenshot 2026-11-11 134240.png:page 1",
+      "page": 1
+    },
+    {
+      "visible_name": "Denton L",
+      "role": "CEO/Founder of Purelements Inc",
+      "company": "Purelements Inc",
+      "extraction_status": "REVIEW_OCR",
+      "source_file": "Screenshot 2026-11-11 134240.png:page 1",
+      "page": 1
+    },
+    {
+      "visible_name": "Didier V",
+      "role": "Vice President Finance",
+      "company": "Dole Packaged Foods",
+      "extraction_status": "REVIEW_OCR",
+      "source_file": "Screenshot 2026-11-11 134240.png:page 1",
+      "page": 1
+    }
+  ],
+  "errors": [
+    {
+      "source_file": "000_72efe131.png",
+      "status": "REVIEW_REQUIRED",
+      "pages": 1,
+      "rows": 0,
+      "error": "No lead rows could be read. Review the extracted page text or import a CSV with visible_name, role and company columns."
+    }
+  ],
+  "started": 1794405462.839407,
+  "elapsed_seconds": 8.615602970123291
+}

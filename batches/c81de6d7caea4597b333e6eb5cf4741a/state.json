@@ -1,0 +1,38 @@
+{
+  "id": "c81de6d7caea4597b333e6eb5cf4741a",
+  "state": "review",
+  "files": [
+    {
+      "name": "Screenshot 2026-11-11 114912.png",
+      "stored": "000_c2090da8.png",
+      "size": 264519
+    },
+    {
+      "name": "Screenshot 2026-11-11 134240.png",
+      "stored": "001_370cec9b.png",
+      "size": 293956
+    }
+  ],
+  "progress": 100,
+  "message": "Finished. Review results and choose whether to delete uploaded copies.",
+  "leads": [],
+  "errors": [
+    {
+      "source_file": "000_c2090da8.png",
+      "status": "ERROR",
+      "pages": 0,
+      "rows": 0,
+      "error": "Install Tesseract OCR and add it to PATH to read images/scanned PDFs."
+    },
+    {
+      "source_file": "001_370cec9b.png",
+      "status": "ERROR",
+      "pages": 0,
+      "rows": 0,
+      "error": "Install Tesseract OCR and add it to PATH to read images/scanned PDFs."
+    }
+  ],
+  "started": 1794405013.2785013,
+  "elapsed_seconds": 0.21389269828796387,
+  "uploads_deleted": true
+}

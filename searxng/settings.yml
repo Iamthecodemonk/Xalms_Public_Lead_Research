@@ -1,0 +1,8 @@
+use_default_settings: true
+search:
+  formats:
+    - html
+    - json
+server:
+  secret_key: "local-only-change-this-before-any-external-hosting"
+  limiter: false
